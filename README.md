@@ -1,6 +1,6 @@
 # jpa03-siddhrthsharma
 
-Running at: <https://jpa03-siddhrthsharma.dokku-15.cs.ucsb.edu/>
+Running at: https://jpa03-siddhrthsharma.dokku-15.cs.ucsb.edu/
 
 # Configuring GitHub Pages for the documentation
 
