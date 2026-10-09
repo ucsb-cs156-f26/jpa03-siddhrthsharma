@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-siddhrthsharma
 
 Running at: <https://jpa03-siddhrthsharma.dokku-15.cs.ucsb.edu/>
 
